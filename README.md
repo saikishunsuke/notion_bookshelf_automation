@@ -1,1 +1,5 @@
-# notion_bookshelf_automation
+# notionで本棚を作るAPI
+## エンドポイント
+### `createCard`
+#### input
+- isbn: string
